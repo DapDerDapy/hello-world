@@ -1,2 +1,2 @@
 # hello-world
-My first repository on GitHub
+I like movies, music, and yummy food!
